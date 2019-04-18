@@ -1,0 +1,1 @@
+The M5Stack FIRE equips ESP32 with everything necessary to program. It also features a 9-Axis (Gyro + Accelerometer + Magnetometer) MEMS (MPU-9250) and a TFT LCD, so you can create a 3D remote gesture controller, a simple “Leap Motion” via M5Stack FIRE in a day in stead of couple weeks and so on.
